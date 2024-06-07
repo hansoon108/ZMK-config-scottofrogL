@@ -1,3 +1,3 @@
-config SHIELD_SCOTTOFROGL
-    def_bool $(shields_list_contains,scottofrogL)
-    
+config SHIELD_SCOTTOFROG
+    def_bool $(shields_list_contains,scottofrog)
+     
