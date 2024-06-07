@@ -1,6 +1,6 @@
-if SHIELD_SCOTTOFROGL
+if SHIELD_SCOTTOFROG
 
 config ZMK_KEYBOARD_NAME
-    default "ScottoFrogL"
+    default "ScottoFrog"
 
 endif
