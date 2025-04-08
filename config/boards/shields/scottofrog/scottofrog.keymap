@@ -45,7 +45,7 @@
             bindings = <
                             &kp GRAVE   &kp KP_N7 &kp KP_N8     &kp KP_N9 &kp C
                             &kp J   &kp KP_N4 &kp KP_N5     &kp KP_N6 &kp N
-                            &kp L      &kp KP_N1 &kp KP_N2     &kp KP_N3 &KP M
+                            &kp L      &kp KP_N1 &kp KP_N2     &kp KP_N3 &kp M
                 &kp ESC   &kp I       &kp B        &kp O      &trans
             >;
         }; 
